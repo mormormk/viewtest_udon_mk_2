@@ -502,12 +502,12 @@ XDでregularであればnormalをつける */
   padding-top: 15px;
 }
 
-@media screen and (min-width: 600px) {
+/* @media screen and (min-width: 600px) {
   .recom-ul li + li {
     padding-top: 35px;
   }
-}
-@media screen and (min-width: 1025px) {
+} */
+@media screen and (min-width: 600px) {
   .recom-ul li {
     width: 47%;
     padding-bottom: 40px;
@@ -527,7 +527,7 @@ XDでregularであればnormalをつける */
 }
 @media screen and (min-width: 600px) {
   .recom-thumb {
-    height: 300px;
+    height: 180px;
   }
 }
 @media screen and (min-width: 1025px) {
